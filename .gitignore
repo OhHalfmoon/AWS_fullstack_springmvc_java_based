@@ -1,0 +1,9 @@
+.classpath
+.project
+.springBeans
+src/main/webapp/resources/vendor
+target
+.settings
+jdbc.properties
+jdbc2.properties
+src/test/java/com/ohalfmoon/persistence/JDBCTests.java
